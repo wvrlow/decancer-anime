@@ -1,0 +1,439 @@
+# Sample Anime library tree
+.
+├── [Anime Time] Assassination Classroom (Season 01+Season 02+Movie) [BD] [Dual Audio][1080p][HEVC 10bit x265][AAC][Eng Sub] [Batch] (Ansatsu Kyoushitsu)
+│   ├── [Anime Time] Assassination Classroom Season 01
+│   │   ├── [Anime Time] Assassination Classroom - 01.mkv
+│   │   └── [Anime Time] Assassination Classroom - 22.mkv
+│   ├── [Anime Time] Assassination Classroom Season 02
+│   │   ├── [Anime Time] Assassination Classroom Season 02 - 01.mkv
+│   │   └── [Anime Time] Assassination Classroom Season 02 - 25.mkv
+│   └── [Anime Time] Assassination Classroom The Movie 365 Days.mkv
+├── [Anime Time] Death Parade + Special [BD][Dual Audio][1080p][HEVC 10bit x265][AAC][Eng Sub]
+│   ├── Death Parade - 01.mkv
+│   ├── Death Parade - 12.mkv
+│   └── Death Parade Special.mkv
+├── [Anime Time] Hunter x Hunter (Series) 2011 [Dual Audio][BD][1080p][HEVC 10bit x265][AAC][Eng Sub] [Batch]
+│   ├── Hunter x Hunter (2011) - 001.mkv
+│   ├── Hunter x Hunter (2011) - 002.mkv
+│   ├── Hunter x Hunter (2011) - 099.mkv
+│   ├── Hunter x Hunter (2011) - 100.mkv
+│   ├── Hunter x Hunter (2011) - 148.mkv
+│   └── Hunter X Hunter Movies
+│       ├── Hunter X Hunter - Phantom Rouge.mkv
+│       └── Hunter X Hunter - The Last Mission.mkv
+├── [Anime Time] K-On! (Season 01+02+Movie+OVA+Specials) [BD][Dual Audio][1080p][HEVC 10bit x265][AAC][Eng Sub]
+│   ├── [Anime Time] K-On!
+│   │   ├── [Anime Time] K-On! - 01.mkv
+│   │   ├── [Anime Time] K-On! - 13.mkv
+│   │   ├── [Anime Time] K-On! - OVA.mkv
+│   │   └── NC
+│   │       ├── NCED.mkv
+│   │       └── NCOP 1.mkv
+│   ├── [Anime Time] K-On!! (Season 2)
+│   │   ├── [Anime Time] K-On!! - 01.mkv
+│   │   ├── [Anime Time] K-On!! - 26.mkv
+│   │   ├── [Anime Time] K-On!! - OVA.mkv
+│   │   └── NC
+│   │       ├── NCED 1.mkv
+│   │       ├── NCED 2.mkv
+│   │       ├── NCOP 1.mkv
+│   │       └── NCOP 2.mkv
+│   ├── [Anime Time] K-On! Specials
+│   │   ├── [Anime Time] K-ON! Specials - 01.mkv
+│   │   └── [Anime Time] K-ON! Specials - 07.mkv
+│   ├── [Anime Time] K-On!! Specials (Season 2)
+│   │   ├── [Anime Time] K-ON!! Specials - 01.mkv
+│   │   └── [Anime Time] K-ON!! Specials - 09.mkv
+│   └── [Anime Time] K-On! The Movie
+│       ├── [Anime Time] K-ON! The Movie.mkv
+│       └── NC
+│           ├── NCED.mkv
+│           └── NCOP.mkv
+├── [Anime Time] Soul Eater Complete (Soul Eater+Soul Eater NOT!) [Dual Audio][BD][1080p][HEVC 10bit x265][AAC][Eng Sub]
+│   ├── [Anime Time] Soul Eater
+│   │   ├── [Anime Time] Soul Eater - 001 - Resonance of the Soul . Will Soul Eater Become a Death Scythe.mkv
+│   │   ├── [Anime Time] Soul Eater - 050 - Sink or Swim! The Men Who Transcend the Gods.mkv
+│   │   └── [Anime Time] Soul Eater - 051 - The Word Is Bravery!.mkv
+│   └── [Anime Time] Soul Eater NOT!
+│       ├── [Anime Time] Soul Eater NOT - 001 - Enrolling at DWMA!.mkv
+│       └── [Anime Time] Soul Eater NOT - 012 - Soul Resonance!.mkv
+├── Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai [BD]
+│   ├── [DB]Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai._-_01_(Dual Audio_10bit_BD1080p_x265).mkv
+│   └── Extras
+│       ├── [DB]Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai. Movie_-_(10bit_BD1080p_x265).mkv
+│       ├── [DB]Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai. Movie_-_NCOP01_(10bit_BD1080p_x265).mkv
+│       ├── [DB]Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai._-_NCED01_(10bit_BD1080p_x265).mkv
+│       ├── [DB]Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai._-_NCED02_(10bit_BD1080p_x265).mkv
+│       ├── [DB]Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai._-_NCOP01_(10bit_BD1080p_x265).mkv
+│       └── [DB]Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai._-_NCOP02_(10bit_BD1080p_x265).mkv
+├── Another S01+OVA 1080p Dual Audio BDRip 10 bits DD x265-EMBER
+│   ├── S01E01-Rough Sketch [E6EA218B].mkv
+│   ├── S01E02-Blueprint [097A2752].mkv
+│   ├── S01E12-Stand by Oneself [2946B7EC].mkv
+│   └── S01OVA-The Other [918CA797].mkv
+├── [Beatrice-Raws] Suzume no Tojimari [BDRip 3840x1608 HEVC HDR DTSHD]
+│   ├── Audio_bonus
+│   │   ├── [Beatrice-Raws] Suzume no Tojimari [BDRip 1920x804 HEVC DTSHD]_Audio_51.mka
+│   │   ├── [Beatrice-Raws] Suzume no Tojimari [BDRip 1920x804 HEVC DTSHD]_Audio_Guide.mka
+│   │   └── [Beatrice-Raws] Suzume no Tojimari [BDRip 1920x804 HEVC DTSHD]_Commentary.mka
+│   ├── BD menu
+│   │   ├── BD Menu 01.png
+│   │   ├── BD Menu 07.png
+│   │   └── BD Menu.m4a
+│   └── [Beatrice-Raws] Suzume no Tojimari [BDRip 3840x1608 HEVC HDR DTSHD].mkv
+├── [Beatrice-Raws] Tenki no Ko [BDRip 3840x2160 HEVC HDR DTSHD]
+│   ├── Audio 5.1
+│   │   ├── [Beatrice-Raws] Tenki no Ko [BDRip 3840x2160 HEVC HDR DTSHD]_Eng_Audio_5.1.mka
+│   │   └── [Beatrice-Raws] Tenki no Ko [BDRip 3840x2160 HEVC HDR DTSHD]_Jpn_Audio_5.1.mka
+│   ├── Audio Guide
+│   │   └── [Beatrice-Raws] Tenki no Ko [BDRip 3840x2160 HEVC HDR DTSHD].Audio Guide.mka
+│   ├── BD menu
+│   │   └── [Beatrice-Raws] Tenki no Ko (BD Menu) [BDRip 3840x2160 HEVC HDR E-AC3].mkv
+│   └── [Beatrice-Raws] Tenki no Ko [BDRip 3840x2160 HEVC HDR DTSHD].mkv
+├── Bocchi the Rock! Re (2024) 1080p WEB x264 E-AC-3 -Tsundere-Raws (CUSTOM).mkv
+├── Bocchi the Rock! Re Re (2024) 1080p WEB x264 E-AC-3 -Tsundere-Raws (CUSTOM).mkv
+├── Bocchi.the.Rock.S01.1080p.BluRay.10-Bit.FLAC2.0.x265-YURASUKA
+│   ├── Bocchi.the.Rock.S01E01.1080p.BluRay.10-Bit.FLAC2.0.x265-YURASUKA.mkv
+│   └── Bocchi.the.Rock.S01E12.1080p.BluRay.10-Bit.FLAC2.0.x265-YURASUKA.mkv
+├── Bungou Stray Dogs
+│   ├── Bungou Stray Dogs
+│   │   ├── [DB]Bungou Stray Dogs_-_01_(Dual Audio_10bit_BD1080p_x265).mkv
+│   │   ├── [DB]Bungou Stray Dogs_-_12_(Dual Audio_10bit_BD1080p_x265).mkv
+│   │   └── Extras
+│   │       ├── [DB]Bungou Stray Dogs_-_NCED_(10bit_BD1080p_x265).mkv
+│   │       └── [DB]Bungou Stray Dogs_-_NCOP_(10bit_BD1080p_x265).mkv
+│   ├── Bungou Stray Dogs 2nd Season
+│   │   ├── [DB]Bungou Stray Dogs 2nd Season_-_01_(Dual Audio_10bit_BD1080p_x265).mkv
+│   │   ├── [DB]Bungou Stray Dogs 2nd Season_-_12_(Dual Audio_10bit_BD1080p_x265).mkv
+│   │   └── Extras
+│   │       ├── [DB]Bungou Stray Dogs 2nd Season_-_NCED_(10bit_BD1080p_x265).mkv
+│   │       ├── [DB]Bungou Stray Dogs 2nd Season_-_NCOPv01_(10bit_BD1080p_x265).mkv
+│   │       ├── [DB]Bungou Stray Dogs 2nd Season_-_NCOPv02_(10bit_BD1080p_x265).mkv
+│   │       ├── [DB]Bungou Stray Dogs 2nd Season_-_NCOPv03_(10bit_BD1080p_x265).mkv
+│   │       └── [DB]Bungou Stray Dogs Hitori Ayumu_-_OVA_(Dual Audio_10bit_BD1080p_x265).mkv
+│   ├── Bungou Stray Dogs 3rd Season
+│   │   ├── [DB]Bungou Stray Dogs 3rd Season_-_01_(Dual Audio_10bit_BD1080p_x265).mkv
+│   │   ├── [DB]Bungou Stray Dogs 3rd Season_-_12_(Dual Audio_10bit_BD1080p_x265).mkv
+│   │   └── Extras
+│   │       ├── [DB]Bungou Stray Dogs 3rd Season_-_NCED_(10bit_BD1080p_x265).mkv
+│   │       ├── [DB]Bungou Stray Dogs 3rd Season_-_NCOPv01_(10bit_BD1080p_x265).mkv
+│   │       └── [DB]Bungou Stray Dogs 3rd Season_-_NCOPv02_(10bit_BD1080p_x265).mkv
+│   ├── Bungou Stray Dogs 4th Season
+│   │   ├── [DB]Bungou Stray Dogs 4th Season_-_01_(Dual Audio_10bit_BD1080p_x265).mkv
+│   │   ├── [DB]Bungou Stray Dogs 4th Season_-_13_(Dual Audio_10bit_BD1080p_x265).mkv
+│   │   └── Extras
+│   │       ├── [DB]Bungou Stray Dogs 4th Season_-_NCED_(10bit_BD1080p_x265).mkv
+│   │       ├── [DB]Bungou Stray Dogs 4th Season_-_NCOP01_(10bit_BD1080p_x265).mkv
+│   │       ├── [DB]Bungou Stray Dogs 4th Season_-_NCOP02_(10bit_BD1080p_x265).mkv
+│   │       └── [DB]Bungou Stray Dogs 4th Season_-_NCOP03_(10bit_BD1080p_x265).mkv
+│   ├── Bungou Stray Dogs 5th Season
+│   │   ├── [DB]Bungou Stray Dogs 5th Season_-_01_(Dual Audio_10bit_BD1080p_x265).mkv
+│   │   ├── [DB]Bungou Stray Dogs 5th Season_-_11_(Dual Audio_10bit_BD1080p_x265).mkv
+│   │   └── Extras
+│   │       ├── [DB]Bungou Stray Dogs 5th Season_-_NCED_(10bit_BD1080p_x265).mkv
+│   │       └── [DB]Bungou Stray Dogs 5th Season_-_NCOP_(10bit_BD1080p_x265).mkv
+│   ├── Bungou Stray Dogs Dead Apple
+│   │   └── [DB]Bungou Stray Dogs Dead Apple_-_(Dual Audio_10bit_BD1080p_x265).mkv
+│   └── Bungou Stray Dogs Wan
+│       ├── [DB]Bungou Stray Dogs Wan_-_01_(Dual Audio_10bit_BD1080p_x265).mkv
+│       ├── [DB]Bungou Stray Dogs Wan_-_12_(Dual Audio_10bit_BD1080p_x265).mkv
+│       └── Extras
+│           └── [DB]Bungou Stray Dogs Wan_-_NCED_(10bit_BD1080p_x265).mkv
+├── Charlotte [BD][1080p][HEVC 10bit x265][Dual Audio][Tenrai-Sensei]
+│   ├── Season 1
+│   │   ├── Charlotte (2015) - S01E01 - I Think About Others.mkv
+│   │   ├── Charlotte (2015) - S01E11 - Charlotte.mkv
+│   │   ├── Charlotte (2015) - S01E12 - Promise.mkv
+│   │   └── Charlotte (2015) - S01E13 - Memories To Come.mkv
+│   └── Specials
+│       └── Charlotte (2015) - S00E02 - The Strong Ones.mkv
+├── [CookieSubs] THE IDOLM@STER Cinderella Girls [BD 1080p HEVC FLAC]
+│   ├── S1
+│   │   ├── [CookieSubs] THE IDOLM@STER Cinderella Girls - EP01 [BD 1080p HEVC FLAC].mkv
+│   │   └── [CookieSubs] THE IDOLM@STER Cinderella Girls - EP13 [BD 1080p HEVC FLAC].mkv
+│   ├── S2
+│   │   ├── [CookieSubs] THE IDOLM@STER Cinderella Girls - EP14 [BD 1080p HEVC FLAC].mkv
+│   │   └── [CookieSubs] THE IDOLM@STER Cinderella Girls - EP25 [BD 1080p HEVC FLAC].mkv
+│   └── Special
+│       └── [CookieSubs] THE IDOLM@STER Cinderella Girls - Anytime, Anywhere with Cinderella. [BD 1080p HEVC FLAC].mkv
+├── Dandadan S01 1080p Dual Audio WEBRip DD+ x265-EMBER
+│   ├── [EMBER] Dandadan - 01.mkv
+│   └── [EMBER] Dandadan - 12.mkv
+├── Danganronpa Complete Package [Presented By EMBER]
+│   ├── 01.Danganronpa The Animation S01 1080p Dual Audio BDRip 10 bits DD x265-EMBER
+│   │   ├── S01E01-Welcome to Despair High School [3D812AF5].mkv
+│   │   ├── S01E02-(Not) Normal Arc~Kill and Live [C50F18A4].mkv
+│   │   └── S01E13-Goodbye, Despair High School [E5CDDED8].mkv
+│   ├── 02.Danganronpa 3 Future Arc 1080p Dual Audio BDRip 10 bits DD x265-EMBER
+│   │   ├── S01E01-Third Time's the Charm [56BECC03].mkv
+│   │   └── S01E12-It Is Always Darkest [B29F7133].mkv
+│   ├── 03.Danganronpa 3 Despair Arc 1080p Dual Audio BDRip 10 bits DD x265-EMBER
+│   │   ├── S01E01-Hello Again, Hope's Peak High School [3A7E8C12].mkv
+│   │   └── S01E11-Goodbye, Hope's Peak High School [B0E066B8].mkv
+│   └── 04.Danganronpa 3 Hope Arc 1080p Dual Audio BDRip 10 bits DD x265-EMBER
+│       └── S01E01-The School of Hope and the Students of Despair [1E6347F2].mkv
+├── [DB]Gosick_-_(Dual Audio_10bit_BD1080p_x265)
+│   ├── [DB]Gosick_-_01_(Dual Audio_10bit_BD1080p_x265).mkv
+│   └── [DB]Gosick_-_24_(Dual Audio_10bit_BD1080p_x265).mkv
+├── [DB]Haibane Renmei_-_(Dual Audio_10bit_BD1080p_x265)
+│   ├── [DB]Haibane Renmei_-_01_(Dual Audio_10bit_BD1080p_x265).mkv
+│   └── [DB]Haibane Renmei_-_13_(Dual Audio_10bit_BD1080p_x265).mkv
+├── Deatte 5-byou de Battle S01 1080p Dual Audio WEBRip AAC x265-EMBER
+│   ├── S01E01-Sophist.mkv
+│   └── S01E12-The Final Ability.mkv
+├── Denpa.Onna.to.Seishun.Otoko.S01.1080p.BluRay.10-Bit.FLAC2.0.x265-YURASUKA
+│   ├── Denpa.Onna.to.Seishun.Otoko.S01E01.1080p.BluRay.10-Bit.FLAC2.0.x265-YURASUKA.mkv
+│   └── Denpa.Onna.to.Seishun.Otoko.S01E13.1080p.BluRay.10-Bit.FLAC2.0.x265-YURASUKA.mkv
+├── FLCL
+│   ├── [Cleo]FLCL_-_01_(Dual Audio_10bit_BD1080p_x265).mkv
+│   └── [Cleo]FLCL_-_06_(Dual Audio_10bit_BD1080p_x265).mkv
+├── Hibike! Euphonium
+│   ├── Hibike! Euphonium
+│   │   ├── [DB]Hibike! Euphonium_-_01_(10bit_BD1080p_x265).mkv
+│   │   ├── [DB]Hibike! Euphonium_-_13_(10bit_BD1080p_x265).mkv
+│   │   └── Extras
+│   │       ├── [DB]Hibike! Euphonium Kakedasu Monaka_-_OVA_(10bit_BD1080p_x265).mkv
+│   │       ├── [DB]Hibike! Euphonium_-_NCED_(10bit_BD1080p_x265).mkv
+│   │       ├── [DB]Hibike! Euphonium_-_NCOP_(10bit_BD1080p_x265).mkv
+│   │       ├── [DB]Hibike! Euphonium Suisougaku-bu no Nichijou_-_SP01_(10bit_BD1080p_x265).mkv
+│   │       └── [DB]Hibike! Euphonium Suisougaku-bu no Nichijou_-_SP07_(10bit_BD1080p_x265).mkv
+│   ├── Hibike! Euphonium 2
+│   │   ├── [DB]Hibike! Euphonium 2_-_01_(10bit_BD1080p_x265).mkv
+│   │   ├── [DB]Hibike! Euphonium 2_-_13_(10bit_BD1080p_x265).mkv
+│   │   └── Extras
+│   │       ├── [DB]Hibike! Euphonium 2_-_NCED01_(10bit_BD1080p_x265).mkv
+│   │       ├── [DB]Hibike! Euphonium 2_-_NCED02_(10bit_BD1080p_x265).mkv
+│   │       ├── [DB]Hibike! Euphonium 2_-_NCOP01_(10bit_BD1080p_x265).mkv
+│   │       ├── [DB]Hibike! Euphonium 2_-_NCOP02_(10bit_BD1080p_x265).mkv
+│   │       ├── [DB]Hibike! Euphonium 2 Specials_-_SP01_(10bit_BD1080p_x265).mkv
+│   │       └── [DB]Hibike! Euphonium 2 Specials_-_SP07_(10bit_BD1080p_x265).mkv
+│   └── Hibike! Euphonium Movies
+│       ├── [DB]Hibike! Euphonium Ensemble Contest-hen_-_(10bit_BD1080p_x265).mkv
+│       ├── [DB]Hibike! Euphonium Movie 1 Kitauji Koukou Suisougaku-bu e Youkoso_-_(10bit_BD1080p_x265).mkv
+│       ├── [DB]Hibike! Euphonium Movie 2 Todoketai Melody_-_(10bit_BD1080p_x265).mkv
+│       ├── [DB]Hibike! Euphonium Movie 3 Chikai no Finale_-_(Dual Audio_10bit_BD1080p_x265).mkv
+│       └── [DB]Liz to Aoi Tori_-_(Dual Audio_10bit_BD1080p_x265).mkv
+├── Hibike! Euphonium 3
+│   ├── [DB]Hibike! Euphonium 3_-_01_(10bit_1080p_x265).mkv
+│   └── [DB]Hibike! Euphonium 3_-_13_(10bit_1080p_x265).mkv
+├── Houseki no Kuni
+│   ├── [Cleo]Houseki_no_Kuni_-_01_(Dual Audio_10bit_BD1080p_x265).mkv
+│   └── [Cleo]Houseki_no_Kuni_-_12_(Dual Audio_10bit_BD1080p_x265).mkv
+├── Howl's Moving Castle (2004) [1080p x265 HEVC 10bit BluRay Dual Audio AAC 5.1] [Prof].mkv
+├── [Judas] Lycoris Recoil (Season 1) [1080p][HEVC x265 10bit][Dual-Audio][Multi-Subs]
+│   ├── [Judas] Lycoris Recoil - S01E01v2.mkv
+│   └── [Judas] Lycoris Recoil - S01E13v2.mkv
+├── Look.Back.2024.1080p.AMZN.WEB-DL.DUAL.DDP5.1.H.264.MSubs-ToonsHub.mkv
+├── Mekakucity Actors
+│   ├── [DB]Mekakucity Actors_-_01_(10bit_BD1080p_x265).mkv
+│   ├── [DB]Mekakucity Actors_-_12_(10bit_BD1080p_x265).mkv
+│   └── Extras
+│       ├── [DB]Mekakucity Actors_-_NCED_(10bit_BD1080p_x265).mkv
+│       └── [DB]Mekakucity Actors_-_NCOP_(10bit_BD1080p_x265).mkv
+├── [Moozzi2] Girls Band Cry [ x265-10Bit Ver. ] - TV + SP
+│   ├── EXTRA
+│   │   ├── [Moozzi2] 2nd Album CD Tokuten BD [SP00] Menu - [ PNG ].png
+│   │   ├── [Moozzi2] 2nd Album CD Tokuten BD [SP01] Non Telop Part Video - 01 [ EP.01 ] (BD 1920x1080 x265-10Bit Flac).mkv
+│   │   ├── [Moozzi2] 2nd Album CD Tokuten BD [SP01] Non Telop Part Video - 02 [ EP.03 ] (BD 1920x1080 x265-10Bit Flac).mkv
+│   │   ├── [Moozzi2] 2nd Album CD Tokuten BD [SP01] Non Telop Part Video - 03 [ EP.05 ] (BD 1920x1080 x265-10Bit Flac).mkv
+│   │   ├── [Moozzi2] 2nd Album CD Tokuten BD [SP01] Non Telop Part Video - 04 [ EP.07 ] (BD 1920x1080 x265-10Bit Flac).mkv
+│   │   ├── [Moozzi2] 2nd Album CD Tokuten BD [SP01] Non Telop Part Video - 05 [ EP.11 Part A ] (BD 1920x1080 x265-10Bit Flac).mkv
+│   │   ├── [Moozzi2] 2nd Album CD Tokuten BD [SP01] Non Telop Part Video - 06 [ EP.11 Part B ] (BD 1920x1080 x265-10Bit Flac).mkv
+│   │   ├── [Moozzi2] 2nd Album CD Tokuten BD [SP01] Non Telop Part Video - 07 [ EP.13 ] (BD 1920x1080 x265-10Bit Flac).mkv
+│   │   ├── [Moozzi2] 2nd Album CD Tokuten BD [SP02] Opening Song Live Performance (BD 1920x1080 x265-10Bit Flac).mkv
+│   │   ├── [Moozzi2] 2nd Album CD Tokuten BD [SP03] Ending Song Live Performance (BD 1920x1080 x265-10Bit Flac).mkv
+│   │   ├── [Moozzi2] Girls Band Cry [SP00] Clean Menu - 01 - [ PNG ].png
+│   │   ├── [Moozzi2] Girls Band Cry [SP00] Clean Menu - 07 - [ PNG ].png
+│   │   ├── [Moozzi2] Girls Band Cry [SP00] Menu - 01 - [ PNG ].png
+│   │   ├── [Moozzi2] Girls Band Cry [SP00] Menu - 07 - [ PNG ].png
+│   │   ├── [Moozzi2] Girls Band Cry [SP01] NCOP (BD 1920x1080 x265-10Bit Flac).mkv
+│   │   ├── [Moozzi2] Girls Band Cry [SP02] NCED (BD 1920x1080 x265-10Bit Flac).mkv
+│   │   ├── [Moozzi2] Girls Band Cry [SP03] Original Preview - 01 (BD 1920x1080 x265-10Bit Flac).mkv
+│   │   ├── [Moozzi2] Girls Band Cry [SP03] Original Preview - 02 (BD 1920x1080 x265-10Bit Flac).mkv
+│   │   ├── [Moozzi2] Girls Band Cry [SP04] TV Promotion Video Collection (BD 1920x1080 x265-10Bit Flac).mkv
+│   │   ├── [Moozzi2] Girls Band Cry [SP05] Teaser PV (BD 1920x1080 x265-10Bit Flac).mkv
+│   │   ├── [Moozzi2] Girls Band Cry [SP06] Character PV - 01 (BD 1920x1080 x265-10Bit Flac).mkv
+│   │   ├── [Moozzi2] Girls Band Cry [SP06] Character PV - 05 (BD 1920x1080 x265-10Bit Flac).mkv
+│   │   ├── [Moozzi2] Girls Band Cry [SP07] EP.01~06 Review Video (BD 1920x1080 x265-10Bit Flac).mkv
+│   │   ├── [Moozzi2] Girls Band Cry [SP08] Central Japan Railway Company Collaboration Campaign Video (BD 1920x1080 x265-10Bit Flac).mkv
+│   │   ├── [Moozzi2] Girls Band Cry [SP09] Kawasaki Azalea Screening Video (BD 1920x1080 x265-10Bit Flac).mkv
+│   │   ├── [Moozzi2] Girls Band Cry [SP10] EP.01~10 Review Video (BD 1920x1080 x265-10Bit Flac).mkv
+│   │   ├── [Moozzi2] Girls Band Cry [SP11] Web Yokoku - 01 (BD 1920x1080 x265-10Bit Flac).mkv
+│   │   ├── [Moozzi2] Girls Band Cry [SP11] Web Yokoku - 12 (BD 1920x1080 x265-10Bit Flac).mkv
+│   │   ├── [Moozzi2] Girls Band Cry [SP12] Bonus CD
+│   │   │   ├── [SP12] Bonus CD - 01.rar
+│   │   │   └── [SP12] Bonus CD - 07.rar
+│   │   └── [Moozzi2] Girls Band Cry [SP13] BD Scans
+│   │       ├── [SP13] BD Scan - 01.rar
+│   │       ├── [SP13] BD Scan - 02.rar
+│   │       ├── [SP13] BD Scan - 03.rar
+│   │       ├── [SP13] BD Scan - 04.rar
+│   │       ├── [SP13] BD Scan - 05.rar
+│   │       ├── [SP13] BD Scan - 06.rar
+│   │       └── [SP13] BD Scan - 07.rar
+│   ├── [Moozzi2] Girls Band Cry - 01 (BD 1920x1080 x265-10Bit FLACx2).mkv
+│   ├── [Moozzi2] Girls Band Cry - 13 END (BD 1920x1080 x265-10Bit FLACx2).mkv
+│   ├── [Moozzi2] Girls Band Cry [ x265-10Bit Ver. ] - TV + SP.md5
+│   └── ScreenShot
+│       ├── 01. BD.png
+│       └── 08. MKV.png
+├── NANA S01 1080p Dual Audio BDRip 10 bits DD x265-EMBER
+│   ├── S01E01-Prologue Nana and NANA [D6BE2D15].mkv
+│   └── S01E47-Fireworks Display, Hachi and NANA [27ECE3D5].mkv
+├── [neoHEVC] Welcome to the N.H.K. [DVD 1024x576 x264 AVC AAC] [Dual Audio]
+│   ├── Language Options
+│   │   ├── 1. Change [Default Tracks].bat
+│   │   ├── 2. Make [Single Audio] Japanese.bat
+│   │   ├── mkvmerge.exe
+│   │   └── mkvpropedit.exe
+│   ├── Welcome to the N.H.K. - S01E01.mkv
+│   └── Welcome to the N.H.K. - S01E24.mkv
+├── No Game No Life [BD][1080p][HEVC 10bit x265][Dual Audio][Tenrai-Sensei]
+│   ├── Other
+│   │   ├── No Game No Life - NCED - Oracion.mkv
+│   │   └── No Game No Life - NCOP - This Game.mkv
+│   ├── Season 1
+│   │   ├── No Game No Life - S01E01 - Beginner.mkv
+│   │   └── No Game No Life - S01E12 - Rule Number 10.mkv
+│   ├── Specials
+│   │   ├── No Game No Life - S00E01 - Special 1 - Wild Fancy.mkv
+│   │   ├── No Game No Life - S00E06 - Special 6 - A Pair Tight.mkv
+│   │   └── No Game No Life - S00E08 - No Game No Life Zero.mkv
+│   └── Trailers
+│       ├── No Game No Life - Offical Trailer 1.mkv
+│       ├── No Game No Life - Offical Trailer 2.mkv
+│       ├── No Game No Life - Special April Fools Trailer 3.mkv
+│       ├── No Game No Life Zero - Official Trailer 4.mkv
+│       └── No Game No Life Zero - Official Trailer 5 (Dub).mkv
+├── Noragami [BD][1080p][HEVC 10bit x265][Dual Audio][Tenrai-Sensei]
+│   ├── Season 1
+│   │   ├── Noragami - S01E01 - A Housecat, A Stray God, And A Tail.mkv
+│   │   └── Noragami - S01E12 - A Scrap Of A Memory.mkv
+│   ├── Season 2
+│   │   ├── Noragami - S02E01 - Bearing A Posthumous Name.mkv
+│   │   └── Noragami - S02E13 - The God Of Fortune's Message.mkv
+│   └── Special
+│       ├── Noragami - S00E01 - God's Possession, God's Curse.mkv
+│       └── Noragami - S00E04 - A Picture Together.mkv
+├── [Nyanpasu] Idoly Pride 1-12 Batch [v2][BD][1080p][HEVC][FLAC]
+│   ├── EXTRAS
+│   │   ├── MENU
+│   │   │   ├── BD1.png
+│   │   │   ├── BD2.png
+│   │   │   └── BD3.png
+│   │   ├── [Nyanpasu] Idoly Pride Insert - 01 [1080p][HEVC][FLAC][BD][26D0F730].mkv
+│   │   ├── [Nyanpasu] Idoly Pride Insert - 02 [1080p][HEVC][FLAC][BD][F4A0235F].mkv
+│   │   ├── [Nyanpasu] Idoly Pride NCED - 01 [1080p][HEVC][FLAC][BD][093170C2].mkv
+│   │   ├── [Nyanpasu] Idoly Pride NCED - 05 [1080p][HEVC][FLAC][BD][6D558EC9].mkv
+│   │   ├── [Nyanpasu] Idoly Pride NCOP - 01 [1080p][HEVC][FLAC][BD][60157B8B].mkv
+│   │   └── Scans
+│   │       ├── VOL1
+│   │       │   ├── 01.jpg
+│   │       │   ├── 21-1.jpg
+│   │       │   ├── 21-2.jpg
+│   │       │   └── 50.jpg
+│   │       ├── VOL2
+│   │       │   ├── 01.jpg
+│   │       │   └── 45.jpg
+│   │       └── VOL3
+│   │           ├── 01.jpg
+│   │           └── 45.jpg
+│   ├── [Nyanpasu] Idoly Pride - 01 [1080p][HEVC][FLAC][BD][4E58E1CA].mkv
+│   └── [Nyanpasu] Idoly Pride - 12 [1080p][HEVC][FLAC][BD][EA7633FC].mkv
+├── Ouran High School Host Club (2006) [1080p x265 HEVC 10bit BluRay Dual Audio AAC] [Prof][darkflux fixed]
+│   ├── [Prof] S01E01 - Starting Today, You Are a Host!.mkv
+│   └── [Prof] S01E26 - This Is Our Ouran Fair!.mkv
+├── [Reaktor] Erased - Boku dake ga Inai Machi Complete [1080p][x265][10-bit][Dual-Audio]
+│   ├── [Reaktor] Erased - Boku dake ga Inai Machi E01 [1080p][x265][10-bit][Dual-Audio].mkv
+│   └── [Reaktor] Erased - Boku dake ga Inai Machi E12 [1080p][x265][10-bit][Dual-Audio].mkv
+├── [Reaktor] Shinsekai Yori - From the New World - Complete [1080p][x265][10-bit][Dual-Audio]
+│   ├── [Reaktor] Shinsekai Yori - E01 [1080p][x265][10-bit][Dual-Audio].mkv
+│   ├── [Reaktor] Shinsekai Yori - E05 [1080p][x265][10-bit][Dual-Audio].mkv
+│   └── [Reaktor] Shinsekai Yori - E25 [1080p][x265][10-bit][Dual-Audio].mkv
+├── Sarazanmai
+│   ├── [DB]Sarazanmai_-_01_(Dual Audio_10bit_BD1080p_x265).mkv
+│   ├── [DB]Sarazanmai_-_11_(Dual Audio_10bit_BD1080p_x265).mkv
+│   └── Extras
+│       ├── [DB]Sarazanmai_-_NCED01_(10bit_BD1080p_x265).mkv
+│       └── [DB]Sarazanmai_-_NCOP01_(10bit_BD1080p_x265).mkv
+├── [smplstc] WATAMOTE (BD 1080p x265 10-Bit Opus) [Dual-Audio]
+│   ├── Episode 01 - Since I'm Not Popular, I'll Change My Image a Bit.mkv
+│   ├── Episode 12 - Since I'm Not Popular, I'll Think About the Future.mkv
+│   ├── OVA
+│   │   └── OVA 01 - Since I'm Not Popular, I'll become an enigma.mkv
+│   └── WATAMOTE.sfv
+├── [Sokudo] The Melancholy of Haruhi Suzumiya 2006+2009+Movie [1080p BD][AV1][dual audio]
+│   ├── 2006
+│   │   ├── [Sokudo] The Melancholy of Haruhi Suzumiya 2006 - 01 [1080p BD][AV1][dual audio].mkv
+│   │   └── [Sokudo] The Melancholy of Haruhi Suzumiya 2006 - 14 [1080p BD][AV1][dual audio].mkv
+│   ├── 2009
+│   │   ├── [Sokudo] The Melancholy of Haruhi Suzumiya 2009 - 01 [1080p BD][AV1][dual audio].mkv
+│   │   └── [Sokudo] The Melancholy of Haruhi Suzumiya 2009 - 14 [1080p BD][AV1][dual audio].mkv
+│   └── Movie
+│       └── [Sokudo] The Disappearance of Haruhi Suzumiya (2010) [1080p BD][AV1][dual audio].mkv
+├── Summer Ghost (2021) [Movie] [V2] [BD 1080p HEVC OPUS] [Dual-Audio]
+│   └── Summer Ghost (2021).mkv
+├── Takt Op. Destiny S01 1080p Dual Audio BDRip 10 bits DD x265-EMBER
+│   ├── S01E01-Conduct -Creed- [462BE863].mkv
+│   └── S01E12-Takt -Hope- [9BE0C7D9].mkv
+├── The Garden of Words (2013) [1080p x265 HEVC 10bit BluRay Dual Audio AAC 5.1] [Prof].mkv
+├── Toradora! [H.265][1080]
+│   ├── [Cleo]Toradora_-_01_(Dual Audio_10bit_BD1080p_x265).mkv
+│   └── [Cleo]Toradora_-_26_(Dual Audio_10bit_BD1080p_x265).mkv
+├── Vanitas no Karte
+│   ├── Vanitas no Karte
+│   │   ├── [DB]Vanitas no Karte_-_01_(Dual Audio_10bit_BD1080p_x265).mkv
+│   │   ├── [DB]Vanitas no Karte_-_12_(Dual Audio_10bit_BD1080p_x265).mkv
+│   │   └── Extras
+│   │       ├── [DB]Vanitas no Karte_-_NCED_(Dual Audio_10bit_BD1080p_x265).mkv
+│   │       └── [DB]Vanitas no Karte_-_NCOP_(10bit_BD1080p_x265).mkv
+│   └── Vanitas no Karte Part 2
+│       ├── [DB]Vanitas no Karte Part 2_-_01_(Dual Audio_10bit_BD1080p_x265).mkv
+│       ├── [DB]Vanitas no Karte Part 2_-_12_(Dual Audio_10bit_BD1080p_x265).mkv
+│       └── Extras
+│           ├── [DB]Vanitas no Karte En Route Pour le Gevaudan_-_SP_(Dual Audio_10bit_BD1080p_x265).mkv
+│           ├── [DB]Vanitas no Karte Part 2_-_NCEDv01_(10bit_BD1080p_x265).mkv
+│           ├── [DB]Vanitas no Karte Part 2_-_NCEDv02_(10bit_BD1080p_x265).mkv
+│           └── [DB]Vanitas no Karte Part 2_-_NCOP_(10bit_BD1080p_x265).mkv
+├── [weeaboo gamer girl] Ansatsu Kyoushitsu 2nd Season Kagaijugyou-hen (BD 1080p x264 FLAC)
+│   ├── [weeaboo gamer girl] Ansatsu Kyoushitsu 2nd Season Kagaijugyou-hen - 01 (BD 1080p x264 FLAC).mkv
+│   └── [weeaboo gamer girl] Ansatsu Kyoushitsu 2nd Season Kagaijugyou-hen - 08 (BD 1080p x264 FLAC).mkv
+├── Wonder Egg Priority (BDRip 1080p HEVC FLAC) [Dae]
+│   ├── [Dae] Wonder Egg Priority - S01E01 (BDRip 1080p HEVC FLAC) [Dual-Audio] [338A15C6].mkv
+│   ├── [Dae] Wonder Egg Priority - S01E12 (BDRip 1080p HEVC FLAC) [Dual-Audio] [7F4E4166].mkv
+│   ├── Extras
+│   │   ├── Fonts
+│   │   │   ├── ACaslonPro-Bold.OTF
+│   │   │   └── SourceSansPro-Black.otf
+│   │   ├── NCs
+│   │   │   ├── [Dae] Wonder Egg Priority - NCED (BDRip 1080p HEVC FLAC) [72468D54].mkv
+│   │   │   └── [Dae] Wonder Egg Priority - NCOP (BDRip 1080p HEVC FLAC) [ACC677F8].mkv
+│   │   └── Subtitles
+│   │       ├── [Dae] Wonder Egg Priority - NCED.ass
+│   │       ├── [Dae] Wonder Egg Priority - NCOP.ass
+│   │       ├── [Dae] Wonder Egg Priority - S00E01.ass
+│   │       └── [Dae] Wonder Egg Priority - S01E12_signs.ass
+│   └── Specials
+│       └── [Dae] Wonder Egg Priority - S00E01 (BDRip 1080p HEVC FLAC) [Dual-Audio] [E067D0D0].mkv
+├── [YuushaNi] The iDOLM@STER Complete (BD HEVC 1920x1080 AAC)
+│   ├── NC
+│   │   ├── [YuushaNi] The iDOLM@STER - NCED01 (BD HEVC 1920x1080 AAC).mkv
+│   │   ├── [YuushaNi] The iDOLM@STER - NCED26 (BD HEVC 1920x1080 AAC).mkv
+│   │   ├── [YuushaNi] The iDOLM@STER - NCOP01 (BD HEVC 1920x1080 AAC).mkv
+│   │   └── [YuushaNi] The iDOLM@STER - NCOP02 (BD HEVC 1920x1080 AAC).mkv
+│   ├── [YuushaNi] The iDOLM@STER - 01 (BD HEVC 1920x1080 AAC).mkv
+│   ├── [YuushaNi] The iDOLM@STER - 17 (BD HEVC 1920x1080 AAC).mkv
+│   ├── [YuushaNi] The iDOLM@STER - 27 (Special) (BD HEVC 1920x1080 AAC).mkv
+│   ├── [YuushaNi] The iDOLM@STER Movie - To the Other side of the Light! (BD HEVC 1920x1080 AAC).mkv
+│   ├── [YuushaNi] The iDOLM@STER - Shiny Festa - Funky Note - Music is a Friend (BD HEVC 1280x720 AAC).mkv
+│   ├── [YuushaNi] The iDOLM@STER - Shiny Festa - Groovy Tune - Music of Love (BD HEVC 1280x720 AAC).mkv
+│   └── [YuushaNi] The iDOLM@STER - Shiny Festa - Honey Sound - Music in the World (BD HEVC 1280x720 AAC).mkv
+├── Zankyou no Terror
+│   ├── [Cleo]Zankyou_no_Terror_-_01_(Dual Audio_10bit_BD1080p_x265).mkv
+│   └── [Cleo]Zankyou_no_Terror_-_11_(Dual Audio_10bit_BD1080p_x265).mkv
+├── Zombie.Land.Saga.S01.v2.1080p.BluRay.10-Bit.Dual-Audio.FLAC5.1.x265-YURASUKA
+│   ├── Zombie.Land.Saga.S01E01.v2.1080p.BluRay.10-Bit.Dual-Audio.FLAC5.1.x265-YURASUKA.mkv
+│   └── Zombie.Land.Saga.S01E12.v2.1080p.BluRay.10-Bit.Dual-Audio.FLAC5.1.x265-YURASUKA.mkv
+└── Zombie.Land.Saga.S02.1080p.BluRay.10-Bit.Dual-Audio.FLAC5.1.x265-YURASUKA
+    ├── Zombie.Land.Saga.S02E01.1080p.BluRay.10-Bit.Dual-Audio.FLAC5.1.x265-YURASUKA.mkv
+    └── Zombie.Land.Saga.S02E12.1080p.BluRay.10-Bit.Dual-Audio.FLAC5.1.x265-YURASUKA.mkv
