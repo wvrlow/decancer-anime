@@ -6,6 +6,7 @@ This script is designed to clean up and rename video files and directories in a 
 import os
 import re
 import sys
+import datetime
 from pathlib import Path
 
 def clean_name(name, is_file=True):
@@ -133,6 +134,8 @@ def clean_directory(directory):
         files_renamed = 0
         dirs_renamed = 0
         errors = 0
+        successful_changes = []
+        failed_changes = []
 
         # First rename files
         for old_path, new_path, is_dir in changes:
@@ -141,9 +144,11 @@ def clean_directory(directory):
                     old_path.rename(new_path)
                     files_renamed += 1
                     print(f"Renamed file: {old_path} -> {new_path}")
+                    successful_changes.append((str(old_path), str(new_path), "file"))
                 except OSError as e:
                     errors += 1
                     print(f"Error renaming file: {old_path} to {new_path} - {e}")
+                    failed_changes.append((str(old_path), str(new_path), "file", str(e)))
 
         # Then rename directories in reverse depth order
         dir_changes = [(old, new) for old, new, is_dir in changes if is_dir]
@@ -154,13 +159,49 @@ def clean_directory(directory):
                 old_path.rename(new_path)
                 dirs_renamed += 1
                 print(f"Renamed directory: {old_path} -> {new_path}")
+                successful_changes.append((str(old_path), str(new_path), "directory"))
             except OSError as e:
                 errors += 1
                 print(f"Error renaming directory: {old_path} to {new_path} - {e}")
+                failed_changes.append((str(old_path), str(new_path), "directory", str(e)))
 
         print(f"\nSummary: {files_renamed} files and {dirs_renamed} directories renamed. {errors} errors occurred.")
+        
+        # Generate log file
+        write_log_file(directory, successful_changes, failed_changes, files_renamed, dirs_renamed, errors)
     else:
         print("Operation cancelled. No changes were made.")
+
+def write_log_file(directory, successful_changes, failed_changes, files_renamed, dirs_renamed, errors):
+    """Write a detailed log of all changes to a file."""
+    timestamp = datetime.datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
+    log_filename = Path(directory) / f"decancer_changes_{timestamp}.log"
+    
+    try:
+        with open(log_filename, 'w', encoding='utf-8') as logfile:
+            logfile.write(f"Decancer Anime Renaming Log - {datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
+            logfile.write(f"Directory: {directory}\n\n")
+            logfile.write(f"SUMMARY:\n")
+            logfile.write(f"- Files renamed: {files_renamed}\n")
+            logfile.write(f"- Directories renamed: {dirs_renamed}\n")
+            logfile.write(f"- Errors: {errors}\n\n")
+            
+            if successful_changes:
+                logfile.write("SUCCESSFUL CHANGES:\n")
+                for i, (old_path, new_path, item_type) in enumerate(successful_changes, 1):
+                    logfile.write(f"{i}. [{item_type.upper()}] FROM: {old_path}\n")
+                    logfile.write(f"   TO: {new_path}\n\n")
+            
+            if failed_changes:
+                logfile.write("\nFAILED CHANGES:\n")
+                for i, (old_path, new_path, item_type, error_msg) in enumerate(failed_changes, 1):
+                    logfile.write(f"{i}. [{item_type.upper()}] FROM: {old_path}\n")
+                    logfile.write(f"   TO: {new_path}\n")
+                    logfile.write(f"   ERROR: {error_msg}\n\n")
+        
+        print(f"\nLog file created: {log_filename}")
+    except Exception as e:
+        print(f"Error creating log file: {e}")
 
 if __name__ == '__main__':
     if len(sys.argv) > 1:
