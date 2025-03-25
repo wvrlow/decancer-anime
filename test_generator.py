@@ -110,6 +110,7 @@ def create_test_structure(root_dir: str) -> None:
         
         test_root / "Zombie.Land.Saga.S01.v2.1080p.BluRay.10-Bit.Dual-Audio.FLAC5.1.x265-YURASUKA",
         test_root / "Zombie.Land.Saga.S02.1080p.BluRay.10-Bit.Dual-Audio.FLAC5.1.x265-YURASUKA",
+        test_root / "[Judas] Lycoris Recoil (Season 1) [1080p][HEVC x265 10bit][Dual-Audio][Multi-Subs]",
     ]
     
     for dir_path in dirs:
@@ -221,6 +222,10 @@ def create_test_structure(root_dir: str) -> None:
         # Zombie Land Saga test files for Season 2
         (test_root / "Zombie.Land.Saga.S02.1080p.BluRay.10-Bit.Dual-Audio.FLAC5.1.x265-YURASUKA" / "Zombie.Land.Saga.S02E01.1080p.BluRay.10-Bit.Dual-Audio.FLAC5.1.x265-YURASUKA.mkv", ""),
         (test_root / "Zombie.Land.Saga.S02.1080p.BluRay.10-Bit.Dual-Audio.FLAC5.1.x265-YURASUKA" / "Zombie.Land.Saga.S02E12.1080p.BluRay.10-Bit.Dual-Audio.FLAC5.1.x265-YURASUKA.mkv", ""),
+        
+        # Lycoris Recoil
+        (test_root / "[Judas] Lycoris Recoil (Season 1) [1080p][HEVC x265 10bit][Dual-Audio][Multi-Subs]" / "[Judas] Lycoris Recoil - S01E01v2.mkv", ""),
+        (test_root / "[Judas] Lycoris Recoil (Season 1) [1080p][HEVC x265 10bit][Dual-Audio][Multi-Subs]" / "[Judas] Lycoris Recoil - S01E13v2.mkv", ""),
     ]
     
     for file_path, content in files:
