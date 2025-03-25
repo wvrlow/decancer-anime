@@ -28,6 +28,7 @@ def clean_name(name, is_file=True):
     name = re.sub(r'[._\-\s]+-\s*(?=\.(mkv|mp4|avi|mov|flv|wmv|m4v|mpg|mpeg|webm|vob|ogv|3gp|3g2|mxf|m2ts|mts|ts|divx|xvid|rm|rmvb|asf|amv|m2v|svi|yuv|mpe|mpv))', '', name).strip()  # Remove special chars before video extension
     name = re.sub(r'_-_', ' ', name).strip()  # Replace "_-_" with space
     name = re.sub(r'\s+', ' ', name).strip()  # Replace multiple spaces with a single space
+    name = re.sub(r'(E\d+)v\d+', r'\1', name, flags=re.IGNORECASE).strip()  # Remove version indicators after episode numbers (E13v2)
     name = re.sub(r'\b(v[0-9]|v[0-9][0-9])\b(?=.*\.(mkv|mp4|avi|mov|flv|wmv|m4v|mpg|mpeg|webm|vob|ogv|3gp|3g2|mxf|m2ts|mts|ts|divx|xvid|rm|rmvb|asf|amv|m2v|svi|yuv|mpe|mpv))', '', name, flags=re.IGNORECASE).strip()  # Remove version indicators only if followed by video extension
     name = re.sub(r'\b(v[0-9]|v[0-9][0-9])\b$', '', name, flags=re.IGNORECASE).strip()  # Remove version indicators if at the end (for directories)
     name = re.sub(r'\.{2,}', '.', name).strip()  # Replace consecutive dots with a single dot
