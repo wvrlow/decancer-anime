@@ -107,6 +107,9 @@ def create_test_structure(root_dir: str) -> None:
         test_root / "Wonder Egg Priority (BDRip 1080p HEVC FLAC) [Dae]" / "Extras" / "NCs",
         test_root / "Wonder Egg Priority (BDRip 1080p HEVC FLAC) [Dae]" / "Extras" / "Subtitles",
         test_root / "Wonder Egg Priority (BDRip 1080p HEVC FLAC) [Dae]" / "Specials",
+        
+        test_root / "Zombie.Land.Saga.S01.v2.1080p.BluRay.10-Bit.Dual-Audio.FLAC5.1.x265-YURASUKA",
+        test_root / "Zombie.Land.Saga.S02.1080p.BluRay.10-Bit.Dual-Audio.FLAC5.1.x265-YURASUKA",
     ]
     
     for dir_path in dirs:
@@ -210,6 +213,14 @@ def create_test_structure(root_dir: str) -> None:
         (test_root / "Wonder Egg Priority (BDRip 1080p HEVC FLAC) [Dae]" / "[Dae] Wonder Egg Priority - S01E01 (BDRip 1080p HEVC FLAC) [Dual-Audio] [338A15C6].mkv", ""),
         (test_root / "Wonder Egg Priority (BDRip 1080p HEVC FLAC) [Dae]" / "Extras" / "NCs" / "[Dae] Wonder Egg Priority - NCED (BDRip 1080p HEVC FLAC) [72468D54].mkv", ""),
         (test_root / "Wonder Egg Priority (BDRip 1080p HEVC FLAC) [Dae]" / "Extras" / "Fonts" / "ACaslonPro-Bold.OTF", ""),
+        
+        # Zombie Land Saga test files for Season 1
+        (test_root / "Zombie.Land.Saga.S01.v2.1080p.BluRay.10-Bit.Dual-Audio.FLAC5.1.x265-YURASUKA" / "Zombie.Land.Saga.S01E01.v2.1080p.BluRay.10-Bit.Dual-Audio.FLAC5.1.x265-YURASUKA.mkv", ""),
+        (test_root / "Zombie.Land.Saga.S01.v2.1080p.BluRay.10-Bit.Dual-Audio.FLAC5.1.x265-YURASUKA" / "Zombie.Land.Saga.S01E12.v2.1080p.BluRay.10-Bit.Dual-Audio.FLAC5.1.x265-YURASUKA.mkv", ""),
+        
+        # Zombie Land Saga test files for Season 2
+        (test_root / "Zombie.Land.Saga.S02.1080p.BluRay.10-Bit.Dual-Audio.FLAC5.1.x265-YURASUKA" / "Zombie.Land.Saga.S02E01.1080p.BluRay.10-Bit.Dual-Audio.FLAC5.1.x265-YURASUKA.mkv", ""),
+        (test_root / "Zombie.Land.Saga.S02.1080p.BluRay.10-Bit.Dual-Audio.FLAC5.1.x265-YURASUKA" / "Zombie.Land.Saga.S02E12.1080p.BluRay.10-Bit.Dual-Audio.FLAC5.1.x265-YURASUKA.mkv", ""),
     ]
     
     for file_path, content in files:
