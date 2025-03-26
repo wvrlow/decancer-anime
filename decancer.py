@@ -10,18 +10,20 @@ import datetime
 from pathlib import Path
 
 def clean_name(name, is_file=True):
-    name = re.sub(r'\(\s*[^()]*(?:2160p|1280|1080|1080p|720p|540p|480p|4K|UHD|2K|FLAC|AAC|DDP|x265|x264|HEVC|HDR|BDRip|WEBRip|BluRay|Menu)[^()]*\)', '', name, flags=re.IGNORECASE)  # Remove parentheses containing technical terms
+    name = re.sub(r'\(\s*[^()]*(?:2160p|1280|1080|1080p|720p|540p|480p|4K|UHD|2K|FLAC|AAC|DDP|x265|H265|x264|HEVC|HDR|BDRip|WEBRip|BluRay|Menu)[^()]*\)', '', name, flags=re.IGNORECASE)  # Remove parentheses containing technical terms
     name = re.sub(r'\[\s*[^\[\]]*(?:2160p|1280|1080|1080p|720p|480p|540|4K|UHD|2K|FLAC|AAC|DDP|x265|x264|HEVC|HDR|BDRip|WEBRip|BluRay|v2|v1|v3|fixed)[^\[\]]*\]', '', name, flags=re.IGNORECASE)  # Remove brackets containing technical terms
-    name = re.sub(r'\[\s*[0-9A-F]{8}\s*\]', '', name, flags=re.IGNORECASE)  # Remove brackets containing 8-character hex hash
-    name = re.sub(r'\b(2160p|1080p|720p|480p|4K|UHD|2K|FLAC[0-9]\.[0-9]|FLAC|AAC|DDP[0-9]\.[0-9]|DDP[0-9]|DDP|x265|x264|HEVC|HDR|BDRip|WEBRip|BluRay|Dual Audio|10bit|10-Bit|10 bits|10 bit|8bit|8-Bit|12bit|12-Bit|AVC|AAC|E-AC-3|TV \+ SP|H\.264|H\.265|VP9|AV1|HDR10|HDR10\+|Dolby Vision|SDR|OPUS|MP3|EAC3|LPCM|TrueHD|REMUX|HDTV|DVDRip|WebDL|Web-DL|Mini Encode|Dual-Audio|BD|UHD BD|AC3|DTS|DTS-HD|ATMOS|5\.1|7\.1|2\.0)\b', '', name, flags=re.IGNORECASE).strip() # Remove common video/audio formats and technical terms
+    name = re.sub(r'\b(2160p|1080p|720p|480p|4K|UHD|2K|FLAC[0-9]\.[0-9]|FLAC|AAC(?:[0-9]\.[0-9])?|DDP[0-9]\.[0-9]|DDP[0-9]|DDP|H265|x265|x264|HEVC|HDR|BDRip|BrRip|WEBRip|Complete|BluRay|Dual Audio|10bit|10-Bit|10 bits|10 bit|8bit|8-Bit|12bit|12-Bit|AVC|AAC|E-AC-3|TV \+ SP|H\.264|H\.265|VP9|AV1|HDR10|HDR10\+|Dolby Vision|SDR|OPUS|MP3|EAC3|LPCM|TrueHD|REMUX|HDTV|DVDRip|WebDL|Web-DL|Mini Encode|Dual-Audio|BD|UHD BD|AC3|DTS|DTSHD|DTS-HD|ATMOS|5\.1|7\.1|2\.0)\b', '', name, flags=re.IGNORECASE).strip() # Remove common video/audio formats and technical terms
     name = re.sub(r'\b(SubsPlease|MSubs|NakayubiSubs|HorribleSubs|Judas|EMBER|FFF|Commie|AnimeRG|THORA|SSA|VARYG|AniDub|Coalgirls|GJM|Aruri|VCB-Studio|ohys|darkstar|CTR|MTBB|UTW|GIGA|Reinforce|PAS|LostYears|YURASUKA|Anime Time|DB|Beatrice-Raws|Moozzi2|neoHEVC|Tenrai-Sensei|Nyanpasu|Reaktor|smplstc|Sokudo|Dae|YuushaNi|Cleo|Prof|CookieSubs|weeaboo gamer girl|Tsundere-Raws|ToonsHub)\b|[A-Za-z]+-Raws', '', name, flags=re.IGNORECASE).strip()  # Remove known release groups
+    name = re.sub(r'\[\s*[0-9A-F]{8}\s*\]', '', name, flags=re.IGNORECASE)  # Remove brackets containing 8-character hex hash
     name = re.sub(r'\[(?![^\]]*\d)[^\]]*\]', '', name).strip()  # Remove brackets that don't contain numbers
-    name = re.sub(r'\b(WEB|WEBDL|AMZN|DUAL|CUSTOM)\b', '', name).strip()  # Remove sources
+    name = re.sub(r'\b(WEB|WEBDL|AMZN|DUAL|CUSTOM|RM4K|-WiKi|MA-SARTRE|Criterion|-NOGRP|-SLOT|-EbP|Paso77|YIFY)\b', '', name).strip()  # Remove sources and other terms
     name = re.sub(r'\s*\d+-\d+\s*\bBatch\b', '', name).strip()  # Handle "1-12 Batch" pattern
-    name = re.sub(r'\bDD\+\b', '', name).strip()  # Remove standalone "DD+"
-    name = re.sub(r'\bDD\b', '', name).strip()  # Remove standalone "DD"
-    name = re.sub(r'\(\s*\)', '', name).strip()  # Remove empty parentheses
-    name = re.sub(r'\[\s*\]', '', name).strip()  # Remove empty brackets
+    name = re.sub(r'\bDD\+\b|\bDD\b', '', name).strip()  # Remove standalone "DD+" and "DD"
+    name = re.sub(r'\b(ITA|ENG|JAP|SPA|GER|FRE|RUS)\b', '', name).strip()  # Remove language codes
+    name = re.sub(r'\s*\+\s*Special', '', name, flags=re.IGNORECASE).strip()  # Remove "+ Special" occurrences
+    name = re.sub(r'\s*\+\s*(Extras|Extra)', '', name, flags=re.IGNORECASE).strip()  # yeah
+    name = re.sub(r'\s*\+\s*OVA', '', name, flags=re.IGNORECASE).strip()  # Remove "+OVA" occurrences
+    name = re.sub(r'\(\s*\)||\[\s*\]', '', name).strip() # Remove empty parentheses and brackets
     name = re.sub(r'[-_\.]+$', '', name).strip()  # Remove trailing hyphens, underscores, and dots
     name = re.sub(r'\s-\s(?=\.)', ' ', name).strip()  # remove trailing hyphen between spaces when followed by a dot
     name = re.sub(r'[\s_]+(\.mkv|\.mp4|\.avi|\.mov|\.flv|\.wmv|\.m4v|\.mpg|\.mpeg|\.webm|\.vob|\.ogv|\.3gp|\.3g2|\.mxf|\.m2ts|\.mts|\.ts|\.divx|\.xvid|\.rm|\.rmvb|\.asf|\.amv|\.m2v|\.svi|\.yuv|\.mpe|\.mpv)$', r'\1', name).strip()  # Fix spacing for video files
