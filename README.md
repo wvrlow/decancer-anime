@@ -85,7 +85,7 @@ Number of changes: 42
 
 DIRECTORY CHANGES:
 1. FROM: [Anime Time] Death Parade + Special [BD][Dual Audio][1080p][HEVC 10bit x265][AAC][Eng Sub]
-   TO:   Death Parade + Special
+   TO:   Death Parade
 
 FILE CHANGES:
 1. FROM: Death Parade - 01.mkv
